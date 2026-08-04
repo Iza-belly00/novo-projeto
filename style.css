@@ -1,6 +1,6 @@
 body {
-    background-color: #1D4221;
-    color: white;
+    background-color: #8a0a8a;
+    color: rgb(215, 216, 221);
     font-family: "Bai Jamjuree", sans-serif;
     display: flex;
     justify-content: center;
@@ -10,8 +10,8 @@ body {
 }
 
 button {
-    background-color: #64A712;
-    color: white;
+    background-color: #deb2e2;
+    color: rgb(48, 20, 45);
     font-family: "Bai Jamjuree", sans-serif;
 }
 
@@ -21,7 +21,7 @@ button {
 
 .passo.ativo {
     display:block;
-}
+}-
 
 main {
     text-align: center;
